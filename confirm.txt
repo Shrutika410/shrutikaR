@@ -1,0 +1,8 @@
+<html>
+    <head>
+      <title>alert</title>
+     </head>
+        <body>
+          <script>confirm('can i allow u or block')</script>
+       </body>
+     </html>
